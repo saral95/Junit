@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41082" started-at="2021-01-21T19:04:48Z" finished-at="2021-01-21T19:05:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41082" started-at="2021-01-21T19:04:48Z" finished-at="2021-01-21T19:05:29Z">
+      <class name="org.testing.Task2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.testing.Task2@47c62251]" name="launchBrowser" is-config="true" duration-ms="11735" started-at="2021-01-21T19:04:48Z" finished-at="2021-01-21T19:04:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.Task2@47c62251]" name="tc1" duration-ms="28809" started-at="2021-01-21T19:04:59Z" finished-at="2021-01-21T19:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="title()[pri:0, instance:org.testing.Task2@47c62251]" name="title" is-config="true" duration-ms="453" started-at="2021-01-21T19:05:28Z" finished-at="2021-01-21T19:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+      </class> <!-- org.testing.Task2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
